@@ -1,5 +1,5 @@
 # Deep-Reinforcement-Learning-for-Atari-Games
-## see my :point_right:[REPORT](https://github.com/WenqiJiang/Deep-Reinforcement-Learning-for-Atari-Games/blob/master/Report_Deep_Reinforcement_Learning_for_Atari_Games.pdf):point_left: to see implementation details
+## see our :point_right:[REPORT](https://github.com/WenqiJiang/Deep-Reinforcement-Learning-for-Atari-Games/blob/master/Report_Deep_Reinforcement_Learning_for_Atari_Games.pdf):point_left: to see implementation details
 ## Introduction
 We train our agents to play Breakout, one of the most popular Atari games. Several deep reinforcement learning algorithms are implemented and compared: Deep Q Learning, Deep SARSA, Double DQN and Dueling DQN, and each algorithm employs two kinds of convolutional structures:
 LeNet and VGG-16. Due to the limited computational resources, we set a fixed training step to see which method performs best. Experiment shows that Dueling DQN with LeNet performs the best over other methods.
